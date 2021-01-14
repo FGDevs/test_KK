@@ -29,8 +29,6 @@ const soal5 = (deretangka) => {
 
 let testing = [12321, 23654789, 512369, 13125, 196499];
 
-// console.log(posisiangka())
-
 console.log(
   soal5(testing[0]),
   soal5(testing[1]),
